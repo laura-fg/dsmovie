@@ -23,9 +23,9 @@ function Form() {
                           <label htmlFor="email">Informe seu email</label>
                           <input type="email" className="form-control" id="email" />
                       </div>
-            <div className="form-group dsmovie-form-group">
-                <label htmlFor="score">Informe sua avaliação</label>
-                <select className="form-control" id="score">
+                        <div className="form-group dsmovie-form-group">
+                          <label htmlFor="score">Informe sua avaliação</label>
+                            <select className="form-control" id="score">
                     <option>1</option>
                     <option>2</option>
                     <option>3</option>
